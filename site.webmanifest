@@ -1,0 +1,13 @@
+{
+	"name":"Hossein Bahiraei",
+	"short_name":"LoCo",
+	"theme_color":"#04CBCF",
+	"background_color":"#000000",
+	"display":"fullscreen",
+	"start_url":"/",
+	"icons":
+	[
+		{"src":"assets/Fav-Icon/android-chrome-192x192.png","sizes":"192x192","type":"image/png"},
+		{"src":"assets/Fav-Icon/android-chrome-512x512.png","sizes":"512x512","type":"image/png"}
+	]
+}

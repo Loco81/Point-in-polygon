@@ -3,7 +3,7 @@
 <p align="center"> Is your point inside or outside your polygon?🤔 </p>
 <p align="center"> On this site, you give the coordinates of a polygon and a point, and the site draws a shape to tell you whether the point is inside or outside the polygon. </p>
 <br>
-<p align="center"> نقطه شما داخل چند ضلعی است یا بیرون آن؟🤔 </p>
+<p align="center"> نقطه شما درون چند ضلعی است یا بیرون آن؟🤔 </p>
 <p align="center">  در این سایت مختصات یک چند ضلعی و یک نقطه را داده و سایت با رسم شکل به شما میگوید که نقطه درون چندضلعی است یا خارج آن </p>
 <br>
 <br>
